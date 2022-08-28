@@ -7,6 +7,8 @@ This webpage was made without using semantic HTML and CSS elements and structure
 ![Screenshot](https://user-images.githubusercontent.com/109792980/187052415-1d117b3d-b92e-4ea1-a300-436133cdbe2e.png)
 ![Screenshot](https://user-images.githubusercontent.com/109792980/187052427-f6bb0091-3d8e-4ced-a320-54ad1a3f9ef7.png)
 
-
 ## Installation
 N/A
+
+## Usage
+This website was used to demonstrate the HTML and CSS elements that we learnt in the first 2 weeks of the course. It will also be added to later in the course to help build a portfolio to show to potential employers!
